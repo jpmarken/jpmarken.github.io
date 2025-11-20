@@ -2,7 +2,7 @@
 title: "Policy Recommendations for the Regulation of Engineered Microbes for Environmental Release"
 # layout: single-portfolio
 excerpt: "<img src='/images/lcssp_200px_sq.jpeg' alt=''>"
-collection: research
+collection: policy
 order_number: 10
 header: 
   og_image: "images/lcssp_200px_sq.jpeg"

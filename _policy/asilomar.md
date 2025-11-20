@@ -1,11 +1,11 @@
 ---
 title: "Governance Frameworks for Biotechnologies Beyond Conventional Containment"
 # layout: single-portfolio
-excerpt: "<img src='/images/asilomar_logo.jpeg' alt=''>"
-collection: research
+excerpt: "<img src='/images/asilomar_photo_sq_200.png' alt=''>"
+collection: policy
 order_number: 20
 header: 
-  og_image: "images/asilomar_logo.jpeg"
+  og_image: "images/asilomar_photo_sq_200.png"
 ---
 Faced with the novel reality of genetically modified life in the early 1970s, scientists across the world issued a moratorium on recombinant DNA research and in 1975, gathered together in Asilomar, California for a meeting to discuss how the scientific community should proceed. Much of how we conceptualize biotechnology risk today can trace itself back to the discussions at this meeting, including the Biosafety Level framework adopted by many scientific agencies worldwide to categorize the risks associated with different types of organisms in laboratory research.
 
