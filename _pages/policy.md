@@ -6,10 +6,15 @@ author_profile: true
 header:
   og_image: "images/profile.png"
 ---
-Since the establishment of the [Coordinated Framework for Biotechnology Regulation](https://usbiotechnologyregulation.mrp.usda.gov/biotechnologygov/about) in 1986, U.S. regulatory policies and statutes have evolved across multiple levels in accordance with scientific developments to generate a sophisticated but complex multi-agency regulatory framework. However, the rapid acceleration of progress in the biotechnology field over the past decade has generated increasingly frequent needs to update the regulatory framework. The Obama, Trump, and Biden administrations have each successively directed federal agencies to modernize the Coordinated Framework, most recently via Executive Order 14081 issued in 2022.
 
-Despite these extensive efforts, the U.S. biotechnology regulatory system is still predominantly structured around agricultural and pharmaceutical products. The upcoming explosion of developments in synthetic biology, which will enable new classes of live microbial biotechnology products in applications such as engineered living materials, precision microbiome editing, carbon sequestration, and bioremediation, will once again require extensive updates to the Coordinated Framework that rethink the nature of how biotechnology will interface with our society and environment.
+The first genetically engineered organism intended for application in the open environment was a bacterium, *Pseudomonas putida*, developed by Ananda Chakrabarty at General Electric in 1971 to degrade crude oil. However, despite their historical primacy, a combination of regulatory uncertainty and public skepticism (exemplified by the case of the [Frostban field trials](https://en.wikipedia.org/wiki/Ice-minus_bacteria)) meant that engineered microbes intended for environmental release (EMERs) were never widely commercialized in the 20th century, and our frameworks for regulating, governing, and conceptualizing the interaction between engineered organisms and the environment were primarily developed around plants in agricultural contexts.
 
-In anticipation of this upcoming challenge, I worked with Mary Maxon and Richard Murray to organize a workshop on 'Pathways Towards the Safe and Effective Deployment of Engineered Microbial Technologies' in Feb 2024. This workshop, hosted by Caltech's Linde Center for Science, Society, and Policy, brought together representatives from the biotechnology industry, scientists and scholars, and federal regulatory agencies to discuss the future of engineered microbial products (particularly those intended for release into the environment) and how to properly regulate them.
+With the emergence of synthetic biology in the 21st century, however, we are now seeing a rapid re-emergence of EMERs in the commercial sector. Microbes exhibit many biological properties that make them distinct from plants in matters related to risk analysis and regulation, such as their microscopic size, asexual reproduction, and propensity for horizontal gene transfer. How should governance and regulatory bodies around the world respond to this rapidly accelerating industry? A major part of my work is to convene discussions across different disciplines and stakeholders to address these questions. Some more details about specific activities can be found below.
 
-A policy report detailing the conclusions from this workshop is available [here](https://lindeinstitute.caltech.edu/research/lcssp/reports/emer-report).
+<nbsp>
+
+{% include base_path %}
+
+{% assign ordered_pages = site.policy | sort:"order_number" %}
+
+{% for post in ordered_pages %} {% include archive-single.html type="grid" %} {% endfor %}

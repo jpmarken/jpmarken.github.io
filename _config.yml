@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "John Marken"
 title_separator          : "-"
 name                     : &name "John Marken"
-description              : &description "Postdoc in Bioengineering, Caltech"
+description              : &description "EMBO Postdoctoral Fellow, University of Copenhagen"
 url                      : https://jpmarken.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jpmarken/jpmarken.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "John Marken"
   avatar           : "Marken_photo_square.png"
-  bio              : "Postdoc in Bioengineering, Caltech"
-  location         : "Pasadena, CA, USA"
+  bio              : "EMBO Postdoctoral Fellow, University of Copenhagen"
+  location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GVHMq88AAAAJ&hl=en"
-  email            : "jmarken@caltech.edu"
+  email            : "john.marken@bio.ku.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
